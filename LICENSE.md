@@ -1,4 +1,4 @@
-# 
+# automatic sandwich attack bot | front-running + auto-buy is the best sandwich attack bot, featuring front-running and auto-buy. Fast, smart, and optimized for MEV and sniper
 
 
 
